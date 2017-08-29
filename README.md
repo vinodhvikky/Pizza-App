@@ -1,2 +1,5 @@
-# Pizza-App
-A half boiled Pizza
+Vinodh
+=========
+
+Pizza App Project
+
